@@ -1,0 +1,113 @@
+body{
+
+	display: flex;
+	justify-content: center;
+	background: hsl(0, 0%, 8%)
+}
+
+
+h1{
+	color: hsl(0, 0%, 100%)
+}
+
+
+h2{
+	color: hsl(75, 94%, 57%)
+}
+
+
+h3{
+	color: hsl(0, 0%, 100%)
+}
+
+
+img{
+	width: 150px;
+	height: 150px;
+	object-fit: cover;
+	border-radius: 50%
+}
+
+
+input{
+	color: hsl(0, 0%, 100%);
+	padding: 10px;
+	border: 2px solid;
+	height: 60px;
+	border-radius: 8px;
+	font-size: 16px;
+	width: 350px;
+	border-color: hsl(0, 0%, 12%);
+	background: hsl(0, 0%, 20%);
+	cursor: pointer;
+}
+
+
+value{
+	color: hsl(0, 0%, 12%);
+}
+
+div{
+	color: hsl(0, 10%, 80%);
+}
+
+
+.image{
+	display: flex;
+	justify-content: center;
+}
+
+
+
+.heading1{
+	display: flex;
+	justify-content: center;
+
+}
+
+
+.heading2{
+	display: flex;
+	justify-content: center;
+}
+
+
+.heading3{
+	display: flex;
+	justify-content: center;
+}
+
+.body{
+	background-color: hsl(0, 0%, 12%);
+	padding: 50px;
+	border-radius: 15px;
+	width: 90%;
+	max-width: 400px;
+
+}
+
+
+.container1{
+	display: flex;
+	justify-content: center;
+}
+
+.container2{
+	display: flex;
+	justify-content: center;
+}
+
+.container3{
+	display: flex;
+	justify-content: center;
+}
+
+.container4{
+	display: flex;
+	justify-content: center;
+}
+
+.container5{
+	display: flex;
+	justify-content: center;
+}
